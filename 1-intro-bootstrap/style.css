@@ -2,3 +2,12 @@
     width: 200px;
     height: 200px;
 }
+.bg-pink {
+    background-color: palevioletred;
+}
+.bg-orange-dark {
+    background-color: rgba(232, 92, 41, 0.888);
+}
+.bg-orange {
+    background-color: orange;
+}
