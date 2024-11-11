@@ -9,3 +9,53 @@
 .pt-6 {
     padding-top: 130px;
 }
+.bg-gradient-circle {
+    background: radial-gradient(circle, #074173 1%, #1679AB 99%);
+}
+.bg-img {
+    background-image: url(../sources/Recurso\ 3.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.text-blue-aqua {
+    color: #139BAF;
+}
+.bg-blue-aqua {
+    background-color: #139BAF;
+}
+.mb-6 {
+    margin-bottom: 150px;
+}
+.fs-0 {
+    font-size: 70px;
+}
+.bg-green-aqua {
+    background-color: #4db889;
+}
+.text-blue-clear {
+    color: #5DEBD7;
+}
+.pt-7 {
+    padding-top: 200px;
+}
+.rounded-img {
+    border-radius: 20px 0px 0px 20px;
+}
+.bg-blue {
+    background-color: #1679AB;
+}
+.bg-blue-clear {
+    background-color: #5DEBD7;
+}
+.bg-blue-dark {
+    background-color: #074173;
+}
+.text-green-aqua {
+    color: #4db889;
+}
+.p-6 {
+    padding-right: 55px;
+    padding-left: 55px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
