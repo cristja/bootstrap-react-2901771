@@ -40,7 +40,7 @@
 }
 .rounded-img {
     border-radius: 80px;
-    object-fit: cover;
+    object-fit: cover;  
 }
 .bg-blue {
     background-color: #1679AB;
